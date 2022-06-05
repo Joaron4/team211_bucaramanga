@@ -16,7 +16,7 @@
       
 4. Barrios 
 
-     - **Bucaranga:** https://raw.githubusercontent.com/Joaron4/team211_datasets/main/barrios_bmanga.csv
+     - **Bucaramanga:** https://raw.githubusercontent.com/Joaron4/team211_datasets/main/barrios_bmanga.csv
 
 5. Geojson:
 
