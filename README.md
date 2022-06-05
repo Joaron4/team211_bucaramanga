@@ -17,3 +17,9 @@
 4. Barrios 
 
       [https://raw.githubusercontent.com/Joaron4/team211_datasets/main/barrios.csv](https://raw.githubusercontent.com/Joaron4/team211_datasets/main/barrios.csv)
+
+5. Geojson:
+
+ - Bucaramanga : https://raw.githubusercontent.com/Joaron4/team211_datasets/main/Barrios-polygon.geojson
+ - Floridablanca: https://raw.githubusercontent.com/Joaron4/team211_datasets/main/Barrios_Floridablanca.geojson
+ - Girón: https://raw.githubusercontent.com/Joaron4/team211_datasets/main/barrios_giron.geojson
