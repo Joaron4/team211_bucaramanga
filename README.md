@@ -41,3 +41,6 @@
  - Recibe Comida-Hambre: https://github.com/Joaron4/team211_datasets/blob/main/S4_Recibe_Comida.csv
  - Sexo: https://github.com/Joaron4/team211_datasets/blob/main/S4_Sexo.csv
  - Solo llaves geograficas: https://raw.githubusercontent.com/Joaron4/team211_datasets/main/S4_llaves.csv
+
+7. Base de Datos de los municipios de investigación:
+ - Delitos Santander: https://raw.githubusercontent.com/Joaron4/team211_bucaramanga/main/delitos_santander.csv
