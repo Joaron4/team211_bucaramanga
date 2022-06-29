@@ -1,486 +1,486 @@
-barrios_hecho,curso_de_vida,quantity
-12 DE OCTUBRE,01. Primera infancia,4
-12 DE OCTUBRE,02. Infancia,6
-12 DE OCTUBRE,03. Adolescencia,18
-12 DE OCTUBRE,04. Jovenes,67
-12 DE OCTUBRE,05. Adultez,154
-12 DE OCTUBRE,06. Persona Mayor,10
-13 DE JUNIO,04. Jovenes,13
-13 DE JUNIO,05. Adultez,16
-13 DE JUNIO,06. Persona Mayor,2
-23 DE JUNIO,01. Primera infancia,2
-23 DE JUNIO,02. Infancia,2
-23 DE JUNIO,03. Adolescencia,4
-23 DE JUNIO,04. Jovenes,29
-23 DE JUNIO,05. Adultez,39
-23 DE JUNIO,06. Persona Mayor,4
-5 DE ENERO,02. Infancia,1
-5 DE ENERO,03. Adolescencia,1
-5 DE ENERO,04. Jovenes,4
-5 DE ENERO,05. Adultez,8
-ALARCON,01. Primera infancia,15
-ALARCON,02. Infancia,19
-ALARCON,03. Adolescencia,82
-ALARCON,04. Jovenes,571
-ALARCON,05. Adultez,1075
-ALARCON,06. Persona Mayor,124
-ALTOS DEL KENNEDY,01. Primera infancia,2
-ALTOS DEL KENNEDY,03. Adolescencia,6
-ALTOS DEL KENNEDY,04. Jovenes,20
-ALTOS DEL KENNEDY,05. Adultez,29
-ALTOS DEL KENNEDY,06. Persona Mayor,4
-ALTOS DEL PROGRESO,02. Infancia,1
-ALTOS DEL PROGRESO,03. Adolescencia,18
-ALTOS DEL PROGRESO,04. Jovenes,57
-ALTOS DEL PROGRESO,05. Adultez,70
-ALTOS DEL PROGRESO,06. Persona Mayor,7
-BALCONES DEL KENNEDY,02. Infancia,1
-BALCONES DEL KENNEDY,03. Adolescencia,3
-BALCONES DEL KENNEDY,04. Jovenes,20
-BALCONES DEL KENNEDY,05. Adultez,28
-BARRIO NUEVO,04. Jovenes,2
-BARRIO NUEVO,05. Adultez,3
-BARRIO NUEVO,06. Persona Mayor,1
-BETANIA,01. Primera infancia,13
-BETANIA,02. Infancia,14
-BETANIA,03. Adolescencia,49
-BETANIA,04. Jovenes,236
-BETANIA,05. Adultez,299
-BETANIA,06. Persona Mayor,20
-BOSQUE NORTE,01. Primera infancia,1
-BOSQUE NORTE,02. Infancia,8
-BOSQUE NORTE,03. Adolescencia,24
-BOSQUE NORTE,04. Jovenes,95
-BOSQUE NORTE,05. Adultez,113
-BOSQUE NORTE,06. Persona Mayor,12
-BUENOS AIRES,01. Primera infancia,16
-BUENOS AIRES,02. Infancia,17
-BUENOS AIRES,03. Adolescencia,51
-BUENOS AIRES,04. Jovenes,201
-BUENOS AIRES,05. Adultez,247
-BUENOS AIRES,06. Persona Mayor,20
-CAFE MADRID,01. Primera infancia,46
-CAFE MADRID,02. Infancia,53
-CAFE MADRID,03. Adolescencia,173
-CAFE MADRID,04. Jovenes,696
-CAFE MADRID,05. Adultez,1055
-CAFE MADRID,06. Persona Mayor,70
-CAMILO TORRES,01. Primera infancia,6
-CAMILO TORRES,02. Infancia,5
-CAMILO TORRES,03. Adolescencia,17
-CAMILO TORRES,04. Jovenes,45
-CAMILO TORRES,05. Adultez,83
-CAMILO TORRES,06. Persona Mayor,6
-CAMPO MADRID,01. Primera infancia,3
-CAMPO MADRID,02. Infancia,6
-CAMPO MADRID,03. Adolescencia,25
-CAMPO MADRID,04. Jovenes,65
-CAMPO MADRID,05. Adultez,99
-CAMPO MADRID,06. Persona Mayor,10
-CARLOS PIZARRO,04. Jovenes,5
-CHAPINERO,01. Primera infancia,16
-CHAPINERO,02. Infancia,7
-CHAPINERO,03. Adolescencia,37
-CHAPINERO,04. Jovenes,202
-CHAPINERO,05. Adultez,297
-CHAPINERO,06. Persona Mayor,42
-CLAVERIANO,01. Primera infancia,11
-CLAVERIANO,02. Infancia,7
-CLAVERIANO,03. Adolescencia,33
-CLAVERIANO,04. Jovenes,84
-CLAVERIANO,05. Adultez,150
-CLAVERIANO,06. Persona Mayor,11
-COLORADOS,01. Primera infancia,32
-COLORADOS,02. Infancia,33
-COLORADOS,03. Adolescencia,97
-COLORADOS,04. Jovenes,367
-COLORADOS,05. Adultez,565
-COLORADOS,06. Persona Mayor,60
-COMUNEROS,01. Primera infancia,29
-COMUNEROS,02. Infancia,39
-COMUNEROS,03. Adolescencia,136
-COMUNEROS,04. Jovenes,805
-COMUNEROS,05. Adultez,1009
-COMUNEROS,06. Persona Mayor,96
-DIVINO NIÑO,02. Infancia,1
-DIVINO NIÑO,03. Adolescencia,5
-DIVINO NIÑO,04. Jovenes,17
-DIVINO NIÑO,05. Adultez,33
-DON BOSCO,01. Primera infancia,3
-DON BOSCO,02. Infancia,4
-DON BOSCO,03. Adolescencia,14
-DON BOSCO,04. Jovenes,35
-DON BOSCO,05. Adultez,58
-DON BOSCO,06. Persona Mayor,11
-EL CINAL,01. Primera infancia,2
-EL CINAL,02. Infancia,1
-EL CINAL,03. Adolescencia,4
-EL CINAL,04. Jovenes,32
-EL CINAL,05. Adultez,24
-EL CINAL,06. Persona Mayor,5
-EL PABLÓN,01. Primera infancia,14
-EL PABLÓN,02. Infancia,13
-EL PABLÓN,03. Adolescencia,20
-EL PABLÓN,04. Jovenes,81
-EL PABLÓN,05. Adultez,127
-EL PABLÓN,06. Persona Mayor,10
-EL ROSAL,01. Primera infancia,4
-EL ROSAL,03. Adolescencia,6
-EL ROSAL,04. Jovenes,21
-EL ROSAL,05. Adultez,28
-ESTORAQUES,03. Adolescencia,1
-ESTORAQUES,04. Jovenes,3
-ESTORAQUES,05. Adultez,5
-GAITAN,01. Primera infancia,21
-GAITAN,02. Infancia,23
-GAITAN,03. Adolescencia,76
-GAITAN,04. Jovenes,449
-GAITAN,05. Adultez,760
-GAITAN,06. Persona Mayor,107
-GALLINERAL,02. Infancia,2
-GALLINERAL,04. Jovenes,3
-GALLINERAL,05. Adultez,3
-GIRARDOT,01. Primera infancia,28
-GIRARDOT,02. Infancia,45
-GIRARDOT,03. Adolescencia,177
-GIRARDOT,04. Jovenes,752
-GIRARDOT,05. Adultez,1264
-GIRARDOT,06. Persona Mayor,154
-GRANADA,01. Primera infancia,6
-GRANADA,02. Infancia,8
-GRANADA,03. Adolescencia,42
-GRANADA,04. Jovenes,229
-GRANADA,05. Adultez,477
-GRANADA,06. Persona Mayor,61
-JOSE ANTONIO GALAN,01. Primera infancia,3
-JOSE ANTONIO GALAN,02. Infancia,8
-JOSE ANTONIO GALAN,03. Adolescencia,21
-JOSE ANTONIO GALAN,04. Jovenes,78
-JOSE ANTONIO GALAN,05. Adultez,113
-JOSE ANTONIO GALAN,06. Persona Mayor,14
-JOSE MARIA CORDOBA,01. Primera infancia,3
-JOSE MARIA CORDOBA,02. Infancia,4
-JOSE MARIA CORDOBA,03. Adolescencia,13
-JOSE MARIA CORDOBA,04. Jovenes,75
-JOSE MARIA CORDOBA,05. Adultez,79
-JOSE MARIA CORDOBA,06. Persona Mayor,7
-KENNEDY,01. Primera infancia,22
-KENNEDY,02. Infancia,29
-KENNEDY,03. Adolescencia,120
-KENNEDY,04. Jovenes,468
-KENNEDY,05. Adultez,650
-KENNEDY,06. Persona Mayor,56
-LA ESPERANZA I,01. Primera infancia,3
-LA ESPERANZA I,02. Infancia,8
-LA ESPERANZA I,03. Adolescencia,42
-LA ESPERANZA I,04. Jovenes,126
-LA ESPERANZA I,05. Adultez,140
-LA ESPERANZA I,06. Persona Mayor,18
-LA ESPERANZA II,01. Primera infancia,3
-LA ESPERANZA II,02. Infancia,4
-LA ESPERANZA II,03. Adolescencia,37
-LA ESPERANZA II,04. Jovenes,132
-LA ESPERANZA II,05. Adultez,153
-LA ESPERANZA II,06. Persona Mayor,28
-LA ESPERANZA III,01. Primera infancia,4
-LA ESPERANZA III,02. Infancia,12
-LA ESPERANZA III,03. Adolescencia,27
-LA ESPERANZA III,04. Jovenes,70
-LA ESPERANZA III,05. Adultez,93
-LA ESPERANZA III,06. Persona Mayor,11
-LA FERIA,01. Primera infancia,8
-LA FERIA,02. Infancia,15
-LA FERIA,03. Adolescencia,40
-LA FERIA,04. Jovenes,151
-LA FERIA,05. Adultez,227
-LA FERIA,06. Persona Mayor,19
-LA GLORIA,01. Primera infancia,2
-LA GLORIA,02. Infancia,2
-LA GLORIA,03. Adolescencia,5
-LA GLORIA,04. Jovenes,36
-LA GLORIA,05. Adultez,45
-LA GLORIA,06. Persona Mayor,7
-LA INDEPENDENCIA,01. Primera infancia,5
-LA INDEPENDENCIA,02. Infancia,13
-LA INDEPENDENCIA,03. Adolescencia,54
-LA INDEPENDENCIA,04. Jovenes,196
-LA INDEPENDENCIA,05. Adultez,276
-LA INDEPENDENCIA,06. Persona Mayor,30
-LA INMACULADA,01. Primera infancia,4
-LA INMACULADA,02. Infancia,8
-LA INMACULADA,03. Adolescencia,40
-LA INMACULADA,04. Jovenes,109
-LA INMACULADA,05. Adultez,183
-LA INMACULADA,06. Persona Mayor,4
-LA JUVENTUD,01. Primera infancia,11
-LA JUVENTUD,02. Infancia,6
-LA JUVENTUD,03. Adolescencia,54
-LA JUVENTUD,04. Jovenes,169
-LA JUVENTUD,05. Adultez,211
-LA JUVENTUD,06. Persona Mayor,19
-LA UNIVERSIDAD,01. Primera infancia,8
-LA UNIVERSIDAD,02. Infancia,21
-LA UNIVERSIDAD,03. Adolescencia,108
-LA UNIVERSIDAD,04. Jovenes,892
-LA UNIVERSIDAD,05. Adultez,743
-LA UNIVERSIDAD,06. Persona Mayor,76
-LAS HAMACAS,01. Primera infancia,6
-LAS HAMACAS,02. Infancia,4
-LAS HAMACAS,03. Adolescencia,15
-LAS HAMACAS,04. Jovenes,34
-LAS HAMACAS,05. Adultez,53
-LAS HAMACAS,06. Persona Mayor,5
-LIZCANO I,02. Infancia,3
-LIZCANO I,03. Adolescencia,3
-LIZCANO I,04. Jovenes,11
-LIZCANO I,05. Adultez,25
-LIZCANO I,06. Persona Mayor,1
-LIZCANO II,03. Adolescencia,3
-LIZCANO II,04. Jovenes,14
-LIZCANO II,05. Adultez,24
-LIZCANO II,06. Persona Mayor,2
-LOS ANGELES,01. Primera infancia,5
-LOS ANGELES,02. Infancia,9
-LOS ANGELES,03. Adolescencia,29
-LOS ANGELES,04. Jovenes,80
-LOS ANGELES,05. Adultez,123
-LOS ANGELES,06. Persona Mayor,8
-MARIA PAZ,01. Primera infancia,9
-MARIA PAZ,02. Infancia,14
-MARIA PAZ,03. Adolescencia,48
-MARIA PAZ,04. Jovenes,164
-MARIA PAZ,05. Adultez,219
-MARIA PAZ,06. Persona Mayor,20
-MINUTO DE DIOS,01. Primera infancia,5
-MINUTO DE DIOS,02. Infancia,8
-MINUTO DE DIOS,03. Adolescencia,20
-MINUTO DE DIOS,04. Jovenes,72
-MINUTO DE DIOS,05. Adultez,105
-MINUTO DE DIOS,06. Persona Mayor,5
-MIRADOR,02. Infancia,1
-MIRADOR,04. Jovenes,5
-MIRADOR,05. Adultez,5
-MIRADOR DEL KENNEDY,01. Primera infancia,1
-MIRADOR DEL KENNEDY,02. Infancia,1
-MIRADOR DEL KENNEDY,03. Adolescencia,6
-MIRADOR DEL KENNEDY,04. Jovenes,12
-MIRADOR DEL KENNEDY,05. Adultez,16
-MIRADOR DEL KENNEDY,06. Persona Mayor,3
-MIRAFLORES,01. Primera infancia,13
-MIRAFLORES,02. Infancia,9
-MIRAFLORES,03. Adolescencia,50
-MIRAFLORES,04. Jovenes,209
-MIRAFLORES,05. Adultez,271
-MIRAFLORES,06. Persona Mayor,34
-MIRAMAR,02. Infancia,4
-MIRAMAR,03. Adolescencia,4
-MIRAMAR,04. Jovenes,30
-MIRAMAR,05. Adultez,47
-MIRAMAR,06. Persona Mayor,6
-MODELO,01. Primera infancia,3
-MODELO,02. Infancia,5
-MODELO,03. Adolescencia,25
-MODELO,04. Jovenes,150
-MODELO,05. Adultez,212
-MODELO,06. Persona Mayor,19
-MORRORICO,01. Primera infancia,8
-MORRORICO,02. Infancia,17
-MORRORICO,03. Adolescencia,69
-MORRORICO,04. Jovenes,314
-MORRORICO,05. Adultez,362
-MORRORICO,06. Persona Mayor,31
-MUTUALIDAD,01. Primera infancia,12
-MUTUALIDAD,02. Infancia,8
-MUTUALIDAD,03. Adolescencia,39
-MUTUALIDAD,04. Jovenes,241
-MUTUALIDAD,05. Adultez,372
-MUTUALIDAD,06. Persona Mayor,43
-NAPOLES,01. Primera infancia,1
-NAPOLES,02. Infancia,9
-NAPOLES,03. Adolescencia,22
-NAPOLES,04. Jovenes,65
-NAPOLES,05. Adultez,95
-NAPOLES,06. Persona Mayor,12
-NARIÑO,01. Primera infancia,4
-NARIÑO,02. Infancia,7
-NARIÑO,03. Adolescencia,21
-NARIÑO,04. Jovenes,124
-NARIÑO,05. Adultez,179
-NARIÑO,06. Persona Mayor,26
-NAVAS,05. Adultez,2
-NORTE BAJO,01. Primera infancia,5
-NORTE BAJO,02. Infancia,2
-NORTE BAJO,03. Adolescencia,14
-NORTE BAJO,04. Jovenes,85
-NORTE BAJO,05. Adultez,87
-NORTE BAJO,06. Persona Mayor,15
-OLAS ALTAS,01. Primera infancia,2
-OLAS ALTAS,02. Infancia,1
-OLAS ALTAS,03. Adolescencia,12
-OLAS ALTAS,04. Jovenes,24
-OLAS ALTAS,05. Adultez,37
-OLAS ALTAS,06. Persona Mayor,5
-OLAS BAJAS,01. Primera infancia,7
-OLAS BAJAS,02. Infancia,9
-OLAS BAJAS,03. Adolescencia,20
-OLAS BAJAS,04. Jovenes,66
-OLAS BAJAS,05. Adultez,90
-OLAS BAJAS,06. Persona Mayor,10
-OLAS II,01. Primera infancia,1
-OLAS II,02. Infancia,2
-OLAS II,03. Adolescencia,10
-OLAS II,04. Jovenes,9
-OLAS II,05. Adultez,25
-OLAS II,06. Persona Mayor,4
-OMAGA I,03. Adolescencia,1
-OMAGA I,04. Jovenes,4
-OMAGA I,05. Adultez,9
-OMAGA I,06. Persona Mayor,3
-OMAGA II,03. Adolescencia,2
-OMAGA II,04. Jovenes,8
-OMAGA II,05. Adultez,17
-OMAGA II,06. Persona Mayor,2
-PIO XII,01. Primera infancia,2
-PIO XII,03. Adolescencia,5
-PIO XII,04. Jovenes,24
-PIO XII,05. Adultez,40
-PIO XII,06. Persona Mayor,8
-PRIMAVERAL,02. Infancia,1
-PRIMAVERAL,03. Adolescencia,2
-PRIMAVERAL,04. Jovenes,1
-PRIMAVERAL,05. Adultez,4
-PRIMAVERAL,06. Persona Mayor,1
-PUERTO RICO,01. Primera infancia,1
-PUERTO RICO,02. Infancia,3
-PUERTO RICO,03. Adolescencia,1
-PUERTO RICO,04. Jovenes,16
-PUERTO RICO,05. Adultez,32
-PUERTO RICO,06. Persona Mayor,3
-QUEBRADA LA IGLESIA I,01. Primera infancia,1
-QUEBRADA LA IGLESIA I,02. Infancia,4
-QUEBRADA LA IGLESIA I,03. Adolescencia,10
-QUEBRADA LA IGLESIA I,04. Jovenes,60
-QUEBRADA LA IGLESIA I,05. Adultez,59
-QUEBRADA LA IGLESIA I,06. Persona Mayor,5
-REGADERO NORTE,01. Primera infancia,10
-REGADERO NORTE,02. Infancia,14
-REGADERO NORTE,03. Adolescencia,20
-REGADERO NORTE,04. Jovenes,135
-REGADERO NORTE,05. Adultez,182
-REGADERO NORTE,06. Persona Mayor,19
-RINCON DE LA PAZ,01. Primera infancia,1
-RINCON DE LA PAZ,03. Adolescencia,3
-RINCON DE LA PAZ,04. Jovenes,17
-RINCON DE LA PAZ,05. Adultez,20
-RINCON DE LA PAZ,06. Persona Mayor,1
-SAN CRISTOBAL,01. Primera infancia,5
-SAN CRISTOBAL,02. Infancia,10
-SAN CRISTOBAL,03. Adolescencia,39
-SAN CRISTOBAL,04. Jovenes,83
-SAN CRISTOBAL,05. Adultez,113
-SAN CRISTOBAL,06. Persona Mayor,13
-SAN MARTIN,01. Primera infancia,5
-SAN MARTIN,02. Infancia,11
-SAN MARTIN,03. Adolescencia,34
-SAN MARTIN,04. Jovenes,216
-SAN MARTIN,05. Adultez,286
-SAN MARTIN,06. Persona Mayor,20
-SAN PEDRO CLAVER,01. Primera infancia,1
-SAN PEDRO CLAVER,02. Infancia,1
-SAN PEDRO CLAVER,03. Adolescencia,6
-SAN PEDRO CLAVER,04. Jovenes,30
-SAN PEDRO CLAVER,05. Adultez,42
-SAN PEDRO CLAVER,06. Persona Mayor,5
-SAN RAFAEL,01. Primera infancia,18
-SAN RAFAEL,02. Infancia,15
-SAN RAFAEL,03. Adolescencia,62
-SAN RAFAEL,04. Jovenes,235
-SAN RAFAEL,05. Adultez,333
-SAN RAFAEL,06. Persona Mayor,46
-SANTANDER,01. Primera infancia,10
-SANTANDER,02. Infancia,7
-SANTANDER,03. Adolescencia,48
-SANTANDER,04. Jovenes,166
-SANTANDER,05. Adultez,204
-SANTANDER,06. Persona Mayor,18
-TEJAR NORTE,01. Primera infancia,5
-TEJAR NORTE,02. Infancia,1
-TEJAR NORTE,03. Adolescencia,12
-TEJAR NORTE,04. Jovenes,83
-TEJAR NORTE,05. Adultez,111
-TEJAR NORTE,06. Persona Mayor,7
-TRANSICION,04. Jovenes,3
-TRANSICION,05. Adultez,5
-TRANSICION,06. Persona Mayor,1
-TRANSICION I,01. Primera infancia,6
-TRANSICION I,02. Infancia,12
-TRANSICION I,03. Adolescencia,38
-TRANSICION I,04. Jovenes,135
-TRANSICION I,05. Adultez,193
-TRANSICION I,06. Persona Mayor,26
-TRANSICION II,01. Primera infancia,2
-TRANSICION II,02. Infancia,1
-TRANSICION II,03. Adolescencia,21
-TRANSICION II,04. Jovenes,22
-TRANSICION II,05. Adultez,43
-TRANSICION II,06. Persona Mayor,5
-TRANSICION III,01. Primera infancia,2
-TRANSICION III,02. Infancia,3
-TRANSICION III,03. Adolescencia,16
-TRANSICION III,04. Jovenes,27
-TRANSICION III,05. Adultez,46
-TRANSICION III,06. Persona Mayor,4
-TRANSICION IV,01. Primera infancia,3
-TRANSICION IV,03. Adolescencia,12
-TRANSICION IV,04. Jovenes,48
-TRANSICION IV,05. Adultez,45
-TRANSICION IV,06. Persona Mayor,3
-TRANSICION V,01. Primera infancia,5
-TRANSICION V,02. Infancia,6
-TRANSICION V,03. Adolescencia,17
-TRANSICION V,04. Jovenes,65
-TRANSICION V,05. Adultez,78
-TRANSICION V,06. Persona Mayor,6
-VILLA HELENA,05. Adultez,2
-VILLA HELENA I,01. Primera infancia,7
-VILLA HELENA I,02. Infancia,8
-VILLA HELENA I,03. Adolescencia,25
-VILLA HELENA I,04. Jovenes,132
-VILLA HELENA I,05. Adultez,178
-VILLA HELENA I,06. Persona Mayor,23
-VILLA HELENA II,01. Primera infancia,2
-VILLA HELENA II,02. Infancia,2
-VILLA HELENA II,03. Adolescencia,3
-VILLA HELENA II,04. Jovenes,8
-VILLA HELENA II,05. Adultez,18
-VILLA HELENA II,06. Persona Mayor,2
-VILLA MARIA I,01. Primera infancia,3
-VILLA MARIA I,02. Infancia,2
-VILLA MARIA I,03. Adolescencia,1
-VILLA MARIA I,04. Jovenes,30
-VILLA MARIA I,05. Adultez,37
-VILLA MARIA I,06. Persona Mayor,3
-VILLA MARIA III,05. Adultez,1
-VILLA MERCEDES,01. Primera infancia,8
-VILLA MERCEDES,02. Infancia,12
-VILLA MERCEDES,03. Adolescencia,46
-VILLA MERCEDES,04. Jovenes,172
-VILLA MERCEDES,05. Adultez,245
-VILLA MERCEDES,06. Persona Mayor,16
-VILLA ROSA,01. Primera infancia,11
-VILLA ROSA,02. Infancia,11
-VILLA ROSA,03. Adolescencia,81
-VILLA ROSA,04. Jovenes,402
-VILLA ROSA,05. Adultez,546
-VILLA ROSA,06. Persona Mayor,46
-VILLAS DE GIRARDOT,01. Primera infancia,4
-VILLAS DE GIRARDOT,02. Infancia,2
-VILLAS DE GIRARDOT,03. Adolescencia,19
-VILLAS DE GIRARDOT,04. Jovenes,44
-VILLAS DE GIRARDOT,05. Adultez,84
-ZARABANDA,01. Primera infancia,5
-ZARABANDA,02. Infancia,3
-ZARABANDA,03. Adolescencia,14
-ZARABANDA,04. Jovenes,60
-ZARABANDA,05. Adultez,106
-ZARABANDA,06. Persona Mayor,9
+,barrios_hecho,curso_de_vida,quantity
+0,12 DE OCTUBRE,01. Primera infancia,4
+1,12 DE OCTUBRE,02. Infancia,6
+2,12 DE OCTUBRE,03. Adolescencia,18
+3,12 DE OCTUBRE,04. Jovenes,67
+4,12 DE OCTUBRE,05. Adultez,154
+5,12 DE OCTUBRE,06. Persona Mayor,10
+6,13 DE JUNIO,04. Jovenes,13
+7,13 DE JUNIO,05. Adultez,16
+8,13 DE JUNIO,06. Persona Mayor,2
+9,23 DE JUNIO,01. Primera infancia,2
+10,23 DE JUNIO,02. Infancia,2
+11,23 DE JUNIO,03. Adolescencia,4
+12,23 DE JUNIO,04. Jovenes,29
+13,23 DE JUNIO,05. Adultez,39
+14,23 DE JUNIO,06. Persona Mayor,4
+15,5 DE ENERO,02. Infancia,1
+16,5 DE ENERO,03. Adolescencia,1
+17,5 DE ENERO,04. Jovenes,4
+18,5 DE ENERO,05. Adultez,8
+19,ALARCON,01. Primera infancia,15
+20,ALARCON,02. Infancia,19
+21,ALARCON,03. Adolescencia,82
+22,ALARCON,04. Jovenes,571
+23,ALARCON,05. Adultez,1075
+24,ALARCON,06. Persona Mayor,124
+25,ALTOS DEL KENNEDY,01. Primera infancia,2
+26,ALTOS DEL KENNEDY,03. Adolescencia,6
+27,ALTOS DEL KENNEDY,04. Jovenes,20
+28,ALTOS DEL KENNEDY,05. Adultez,29
+29,ALTOS DEL KENNEDY,06. Persona Mayor,4
+30,ALTOS DEL PROGRESO,02. Infancia,1
+31,ALTOS DEL PROGRESO,03. Adolescencia,18
+32,ALTOS DEL PROGRESO,04. Jovenes,57
+33,ALTOS DEL PROGRESO,05. Adultez,70
+34,ALTOS DEL PROGRESO,06. Persona Mayor,7
+35,BALCONES DEL KENNEDY,02. Infancia,1
+36,BALCONES DEL KENNEDY,03. Adolescencia,3
+37,BALCONES DEL KENNEDY,04. Jovenes,20
+38,BALCONES DEL KENNEDY,05. Adultez,28
+39,BARRIO NUEVO,04. Jovenes,2
+40,BARRIO NUEVO,05. Adultez,3
+41,BARRIO NUEVO,06. Persona Mayor,1
+42,BETANIA,01. Primera infancia,13
+43,BETANIA,02. Infancia,14
+44,BETANIA,03. Adolescencia,49
+45,BETANIA,04. Jovenes,236
+46,BETANIA,05. Adultez,299
+47,BETANIA,06. Persona Mayor,20
+48,BOSQUE NORTE,01. Primera infancia,1
+49,BOSQUE NORTE,02. Infancia,8
+50,BOSQUE NORTE,03. Adolescencia,24
+51,BOSQUE NORTE,04. Jovenes,95
+52,BOSQUE NORTE,05. Adultez,113
+53,BOSQUE NORTE,06. Persona Mayor,12
+54,BUENOS AIRES,01. Primera infancia,16
+55,BUENOS AIRES,02. Infancia,17
+56,BUENOS AIRES,03. Adolescencia,51
+57,BUENOS AIRES,04. Jovenes,201
+58,BUENOS AIRES,05. Adultez,247
+59,BUENOS AIRES,06. Persona Mayor,20
+60,CAFE MADRID,01. Primera infancia,46
+61,CAFE MADRID,02. Infancia,53
+62,CAFE MADRID,03. Adolescencia,173
+63,CAFE MADRID,04. Jovenes,696
+64,CAFE MADRID,05. Adultez,1055
+65,CAFE MADRID,06. Persona Mayor,70
+66,CAMILO TORRES,01. Primera infancia,6
+67,CAMILO TORRES,02. Infancia,5
+68,CAMILO TORRES,03. Adolescencia,17
+69,CAMILO TORRES,04. Jovenes,45
+70,CAMILO TORRES,05. Adultez,83
+71,CAMILO TORRES,06. Persona Mayor,6
+72,CAMPO MADRID,01. Primera infancia,3
+73,CAMPO MADRID,02. Infancia,6
+74,CAMPO MADRID,03. Adolescencia,25
+75,CAMPO MADRID,04. Jovenes,65
+76,CAMPO MADRID,05. Adultez,99
+77,CAMPO MADRID,06. Persona Mayor,10
+78,CARLOS PIZARRO,04. Jovenes,5
+79,CHAPINERO,01. Primera infancia,16
+80,CHAPINERO,02. Infancia,7
+81,CHAPINERO,03. Adolescencia,37
+82,CHAPINERO,04. Jovenes,202
+83,CHAPINERO,05. Adultez,297
+84,CHAPINERO,06. Persona Mayor,42
+85,CLAVERIANO,01. Primera infancia,11
+86,CLAVERIANO,02. Infancia,7
+87,CLAVERIANO,03. Adolescencia,33
+88,CLAVERIANO,04. Jovenes,84
+89,CLAVERIANO,05. Adultez,150
+90,CLAVERIANO,06. Persona Mayor,11
+91,COLORADOS,01. Primera infancia,32
+92,COLORADOS,02. Infancia,33
+93,COLORADOS,03. Adolescencia,97
+94,COLORADOS,04. Jovenes,367
+95,COLORADOS,05. Adultez,565
+96,COLORADOS,06. Persona Mayor,60
+97,COMUNEROS,01. Primera infancia,29
+98,COMUNEROS,02. Infancia,39
+99,COMUNEROS,03. Adolescencia,136
+100,COMUNEROS,04. Jovenes,805
+101,COMUNEROS,05. Adultez,1009
+102,COMUNEROS,06. Persona Mayor,96
+103,DIVINO NIÑO,02. Infancia,1
+104,DIVINO NIÑO,03. Adolescencia,5
+105,DIVINO NIÑO,04. Jovenes,17
+106,DIVINO NIÑO,05. Adultez,33
+107,DON BOSCO,01. Primera infancia,3
+108,DON BOSCO,02. Infancia,4
+109,DON BOSCO,03. Adolescencia,14
+110,DON BOSCO,04. Jovenes,35
+111,DON BOSCO,05. Adultez,58
+112,DON BOSCO,06. Persona Mayor,11
+113,EL CINAL,01. Primera infancia,2
+114,EL CINAL,02. Infancia,1
+115,EL CINAL,03. Adolescencia,4
+116,EL CINAL,04. Jovenes,32
+117,EL CINAL,05. Adultez,24
+118,EL CINAL,06. Persona Mayor,5
+119,EL PABLÓN,01. Primera infancia,14
+120,EL PABLÓN,02. Infancia,13
+121,EL PABLÓN,03. Adolescencia,20
+122,EL PABLÓN,04. Jovenes,81
+123,EL PABLÓN,05. Adultez,127
+124,EL PABLÓN,06. Persona Mayor,10
+125,EL ROSAL,01. Primera infancia,4
+126,EL ROSAL,03. Adolescencia,6
+127,EL ROSAL,04. Jovenes,21
+128,EL ROSAL,05. Adultez,28
+129,ESTORAQUES,03. Adolescencia,1
+130,ESTORAQUES,04. Jovenes,3
+131,ESTORAQUES,05. Adultez,5
+132,GAITAN,01. Primera infancia,21
+133,GAITAN,02. Infancia,23
+134,GAITAN,03. Adolescencia,76
+135,GAITAN,04. Jovenes,449
+136,GAITAN,05. Adultez,760
+137,GAITAN,06. Persona Mayor,107
+138,GALLINERAL,02. Infancia,2
+139,GALLINERAL,04. Jovenes,3
+140,GALLINERAL,05. Adultez,3
+141,GIRARDOT,01. Primera infancia,28
+142,GIRARDOT,02. Infancia,45
+143,GIRARDOT,03. Adolescencia,177
+144,GIRARDOT,04. Jovenes,752
+145,GIRARDOT,05. Adultez,1264
+146,GIRARDOT,06. Persona Mayor,154
+147,GRANADA,01. Primera infancia,6
+148,GRANADA,02. Infancia,8
+149,GRANADA,03. Adolescencia,42
+150,GRANADA,04. Jovenes,229
+151,GRANADA,05. Adultez,477
+152,GRANADA,06. Persona Mayor,61
+153,JOSE ANTONIO GALAN,01. Primera infancia,3
+154,JOSE ANTONIO GALAN,02. Infancia,8
+155,JOSE ANTONIO GALAN,03. Adolescencia,21
+156,JOSE ANTONIO GALAN,04. Jovenes,78
+157,JOSE ANTONIO GALAN,05. Adultez,113
+158,JOSE ANTONIO GALAN,06. Persona Mayor,14
+159,JOSE MARIA CORDOBA,01. Primera infancia,3
+160,JOSE MARIA CORDOBA,02. Infancia,4
+161,JOSE MARIA CORDOBA,03. Adolescencia,13
+162,JOSE MARIA CORDOBA,04. Jovenes,75
+163,JOSE MARIA CORDOBA,05. Adultez,79
+164,JOSE MARIA CORDOBA,06. Persona Mayor,7
+165,KENNEDY,01. Primera infancia,22
+166,KENNEDY,02. Infancia,29
+167,KENNEDY,03. Adolescencia,120
+168,KENNEDY,04. Jovenes,468
+169,KENNEDY,05. Adultez,650
+170,KENNEDY,06. Persona Mayor,56
+171,LA ESPERANZA I,01. Primera infancia,3
+172,LA ESPERANZA I,02. Infancia,8
+173,LA ESPERANZA I,03. Adolescencia,42
+174,LA ESPERANZA I,04. Jovenes,126
+175,LA ESPERANZA I,05. Adultez,140
+176,LA ESPERANZA I,06. Persona Mayor,18
+177,LA ESPERANZA II,01. Primera infancia,3
+178,LA ESPERANZA II,02. Infancia,4
+179,LA ESPERANZA II,03. Adolescencia,37
+180,LA ESPERANZA II,04. Jovenes,132
+181,LA ESPERANZA II,05. Adultez,153
+182,LA ESPERANZA II,06. Persona Mayor,28
+183,LA ESPERANZA III,01. Primera infancia,4
+184,LA ESPERANZA III,02. Infancia,12
+185,LA ESPERANZA III,03. Adolescencia,27
+186,LA ESPERANZA III,04. Jovenes,70
+187,LA ESPERANZA III,05. Adultez,93
+188,LA ESPERANZA III,06. Persona Mayor,11
+189,LA FERIA,01. Primera infancia,8
+190,LA FERIA,02. Infancia,15
+191,LA FERIA,03. Adolescencia,40
+192,LA FERIA,04. Jovenes,151
+193,LA FERIA,05. Adultez,227
+194,LA FERIA,06. Persona Mayor,19
+195,LA GLORIA,01. Primera infancia,2
+196,LA GLORIA,02. Infancia,2
+197,LA GLORIA,03. Adolescencia,5
+198,LA GLORIA,04. Jovenes,36
+199,LA GLORIA,05. Adultez,45
+200,LA GLORIA,06. Persona Mayor,7
+201,LA INDEPENDENCIA,01. Primera infancia,5
+202,LA INDEPENDENCIA,02. Infancia,13
+203,LA INDEPENDENCIA,03. Adolescencia,54
+204,LA INDEPENDENCIA,04. Jovenes,196
+205,LA INDEPENDENCIA,05. Adultez,276
+206,LA INDEPENDENCIA,06. Persona Mayor,30
+207,LA INMACULADA,01. Primera infancia,4
+208,LA INMACULADA,02. Infancia,8
+209,LA INMACULADA,03. Adolescencia,40
+210,LA INMACULADA,04. Jovenes,109
+211,LA INMACULADA,05. Adultez,183
+212,LA INMACULADA,06. Persona Mayor,4
+213,LA JUVENTUD,01. Primera infancia,11
+214,LA JUVENTUD,02. Infancia,6
+215,LA JUVENTUD,03. Adolescencia,54
+216,LA JUVENTUD,04. Jovenes,169
+217,LA JUVENTUD,05. Adultez,211
+218,LA JUVENTUD,06. Persona Mayor,19
+219,LA UNIVERSIDAD,01. Primera infancia,8
+220,LA UNIVERSIDAD,02. Infancia,21
+221,LA UNIVERSIDAD,03. Adolescencia,108
+222,LA UNIVERSIDAD,04. Jovenes,892
+223,LA UNIVERSIDAD,05. Adultez,743
+224,LA UNIVERSIDAD,06. Persona Mayor,76
+225,LAS HAMACAS,01. Primera infancia,6
+226,LAS HAMACAS,02. Infancia,4
+227,LAS HAMACAS,03. Adolescencia,15
+228,LAS HAMACAS,04. Jovenes,34
+229,LAS HAMACAS,05. Adultez,53
+230,LAS HAMACAS,06. Persona Mayor,5
+231,LIZCANO I,02. Infancia,3
+232,LIZCANO I,03. Adolescencia,3
+233,LIZCANO I,04. Jovenes,11
+234,LIZCANO I,05. Adultez,25
+235,LIZCANO I,06. Persona Mayor,1
+236,LIZCANO II,03. Adolescencia,3
+237,LIZCANO II,04. Jovenes,14
+238,LIZCANO II,05. Adultez,24
+239,LIZCANO II,06. Persona Mayor,2
+240,LOS ANGELES,01. Primera infancia,5
+241,LOS ANGELES,02. Infancia,9
+242,LOS ANGELES,03. Adolescencia,29
+243,LOS ANGELES,04. Jovenes,80
+244,LOS ANGELES,05. Adultez,123
+245,LOS ANGELES,06. Persona Mayor,8
+246,MARIA PAZ,01. Primera infancia,9
+247,MARIA PAZ,02. Infancia,14
+248,MARIA PAZ,03. Adolescencia,48
+249,MARIA PAZ,04. Jovenes,164
+250,MARIA PAZ,05. Adultez,219
+251,MARIA PAZ,06. Persona Mayor,20
+252,MINUTO DE DIOS,01. Primera infancia,5
+253,MINUTO DE DIOS,02. Infancia,8
+254,MINUTO DE DIOS,03. Adolescencia,20
+255,MINUTO DE DIOS,04. Jovenes,72
+256,MINUTO DE DIOS,05. Adultez,105
+257,MINUTO DE DIOS,06. Persona Mayor,5
+258,MIRADOR,02. Infancia,1
+259,MIRADOR,04. Jovenes,5
+260,MIRADOR,05. Adultez,5
+261,MIRADOR DEL KENNEDY,01. Primera infancia,1
+262,MIRADOR DEL KENNEDY,02. Infancia,1
+263,MIRADOR DEL KENNEDY,03. Adolescencia,6
+264,MIRADOR DEL KENNEDY,04. Jovenes,12
+265,MIRADOR DEL KENNEDY,05. Adultez,16
+266,MIRADOR DEL KENNEDY,06. Persona Mayor,3
+267,MIRAFLORES,01. Primera infancia,13
+268,MIRAFLORES,02. Infancia,9
+269,MIRAFLORES,03. Adolescencia,50
+270,MIRAFLORES,04. Jovenes,209
+271,MIRAFLORES,05. Adultez,271
+272,MIRAFLORES,06. Persona Mayor,34
+273,MIRAMAR,02. Infancia,4
+274,MIRAMAR,03. Adolescencia,4
+275,MIRAMAR,04. Jovenes,30
+276,MIRAMAR,05. Adultez,47
+277,MIRAMAR,06. Persona Mayor,6
+278,MODELO,01. Primera infancia,3
+279,MODELO,02. Infancia,5
+280,MODELO,03. Adolescencia,25
+281,MODELO,04. Jovenes,150
+282,MODELO,05. Adultez,212
+283,MODELO,06. Persona Mayor,19
+284,MORRORICO,01. Primera infancia,8
+285,MORRORICO,02. Infancia,17
+286,MORRORICO,03. Adolescencia,69
+287,MORRORICO,04. Jovenes,314
+288,MORRORICO,05. Adultez,362
+289,MORRORICO,06. Persona Mayor,31
+290,MUTUALIDAD,01. Primera infancia,12
+291,MUTUALIDAD,02. Infancia,8
+292,MUTUALIDAD,03. Adolescencia,39
+293,MUTUALIDAD,04. Jovenes,241
+294,MUTUALIDAD,05. Adultez,372
+295,MUTUALIDAD,06. Persona Mayor,43
+296,NAPOLES,01. Primera infancia,1
+297,NAPOLES,02. Infancia,9
+298,NAPOLES,03. Adolescencia,22
+299,NAPOLES,04. Jovenes,65
+300,NAPOLES,05. Adultez,95
+301,NAPOLES,06. Persona Mayor,12
+302,NARIÑO,01. Primera infancia,4
+303,NARIÑO,02. Infancia,7
+304,NARIÑO,03. Adolescencia,21
+305,NARIÑO,04. Jovenes,124
+306,NARIÑO,05. Adultez,179
+307,NARIÑO,06. Persona Mayor,26
+308,NAVAS,05. Adultez,2
+309,NORTE BAJO,01. Primera infancia,5
+310,NORTE BAJO,02. Infancia,2
+311,NORTE BAJO,03. Adolescencia,14
+312,NORTE BAJO,04. Jovenes,85
+313,NORTE BAJO,05. Adultez,87
+314,NORTE BAJO,06. Persona Mayor,15
+315,OLAS ALTAS,01. Primera infancia,2
+316,OLAS ALTAS,02. Infancia,1
+317,OLAS ALTAS,03. Adolescencia,12
+318,OLAS ALTAS,04. Jovenes,24
+319,OLAS ALTAS,05. Adultez,37
+320,OLAS ALTAS,06. Persona Mayor,5
+321,OLAS BAJAS,01. Primera infancia,7
+322,OLAS BAJAS,02. Infancia,9
+323,OLAS BAJAS,03. Adolescencia,20
+324,OLAS BAJAS,04. Jovenes,66
+325,OLAS BAJAS,05. Adultez,90
+326,OLAS BAJAS,06. Persona Mayor,10
+327,OLAS II,01. Primera infancia,1
+328,OLAS II,02. Infancia,2
+329,OLAS II,03. Adolescencia,10
+330,OLAS II,04. Jovenes,9
+331,OLAS II,05. Adultez,25
+332,OLAS II,06. Persona Mayor,4
+333,OMAGA I,03. Adolescencia,1
+334,OMAGA I,04. Jovenes,4
+335,OMAGA I,05. Adultez,9
+336,OMAGA I,06. Persona Mayor,3
+337,OMAGA II,03. Adolescencia,2
+338,OMAGA II,04. Jovenes,8
+339,OMAGA II,05. Adultez,17
+340,OMAGA II,06. Persona Mayor,2
+341,PIO XII,01. Primera infancia,2
+342,PIO XII,03. Adolescencia,5
+343,PIO XII,04. Jovenes,24
+344,PIO XII,05. Adultez,40
+345,PIO XII,06. Persona Mayor,8
+346,PRIMAVERAL,02. Infancia,1
+347,PRIMAVERAL,03. Adolescencia,2
+348,PRIMAVERAL,04. Jovenes,1
+349,PRIMAVERAL,05. Adultez,4
+350,PRIMAVERAL,06. Persona Mayor,1
+351,PUERTO RICO,01. Primera infancia,1
+352,PUERTO RICO,02. Infancia,3
+353,PUERTO RICO,03. Adolescencia,1
+354,PUERTO RICO,04. Jovenes,16
+355,PUERTO RICO,05. Adultez,32
+356,PUERTO RICO,06. Persona Mayor,3
+357,QUEBRADA LA IGLESIA I,01. Primera infancia,1
+358,QUEBRADA LA IGLESIA I,02. Infancia,4
+359,QUEBRADA LA IGLESIA I,03. Adolescencia,10
+360,QUEBRADA LA IGLESIA I,04. Jovenes,60
+361,QUEBRADA LA IGLESIA I,05. Adultez,59
+362,QUEBRADA LA IGLESIA I,06. Persona Mayor,5
+363,REGADERO NORTE,01. Primera infancia,10
+364,REGADERO NORTE,02. Infancia,14
+365,REGADERO NORTE,03. Adolescencia,20
+366,REGADERO NORTE,04. Jovenes,135
+367,REGADERO NORTE,05. Adultez,182
+368,REGADERO NORTE,06. Persona Mayor,19
+369,RINCON DE LA PAZ,01. Primera infancia,1
+370,RINCON DE LA PAZ,03. Adolescencia,3
+371,RINCON DE LA PAZ,04. Jovenes,17
+372,RINCON DE LA PAZ,05. Adultez,20
+373,RINCON DE LA PAZ,06. Persona Mayor,1
+374,SAN CRISTOBAL,01. Primera infancia,5
+375,SAN CRISTOBAL,02. Infancia,10
+376,SAN CRISTOBAL,03. Adolescencia,39
+377,SAN CRISTOBAL,04. Jovenes,83
+378,SAN CRISTOBAL,05. Adultez,113
+379,SAN CRISTOBAL,06. Persona Mayor,13
+380,SAN MARTIN,01. Primera infancia,5
+381,SAN MARTIN,02. Infancia,11
+382,SAN MARTIN,03. Adolescencia,34
+383,SAN MARTIN,04. Jovenes,216
+384,SAN MARTIN,05. Adultez,286
+385,SAN MARTIN,06. Persona Mayor,20
+386,SAN PEDRO CLAVER,01. Primera infancia,1
+387,SAN PEDRO CLAVER,02. Infancia,1
+388,SAN PEDRO CLAVER,03. Adolescencia,6
+389,SAN PEDRO CLAVER,04. Jovenes,30
+390,SAN PEDRO CLAVER,05. Adultez,42
+391,SAN PEDRO CLAVER,06. Persona Mayor,5
+392,SAN RAFAEL,01. Primera infancia,18
+393,SAN RAFAEL,02. Infancia,15
+394,SAN RAFAEL,03. Adolescencia,62
+395,SAN RAFAEL,04. Jovenes,235
+396,SAN RAFAEL,05. Adultez,333
+397,SAN RAFAEL,06. Persona Mayor,46
+398,SANTANDER,01. Primera infancia,10
+399,SANTANDER,02. Infancia,7
+400,SANTANDER,03. Adolescencia,48
+401,SANTANDER,04. Jovenes,166
+402,SANTANDER,05. Adultez,204
+403,SANTANDER,06. Persona Mayor,18
+404,TEJAR NORTE,01. Primera infancia,5
+405,TEJAR NORTE,02. Infancia,1
+406,TEJAR NORTE,03. Adolescencia,12
+407,TEJAR NORTE,04. Jovenes,83
+408,TEJAR NORTE,05. Adultez,111
+409,TEJAR NORTE,06. Persona Mayor,7
+410,TRANSICION,04. Jovenes,3
+411,TRANSICION,05. Adultez,5
+412,TRANSICION,06. Persona Mayor,1
+413,TRANSICION I,01. Primera infancia,6
+414,TRANSICION I,02. Infancia,12
+415,TRANSICION I,03. Adolescencia,38
+416,TRANSICION I,04. Jovenes,135
+417,TRANSICION I,05. Adultez,193
+418,TRANSICION I,06. Persona Mayor,26
+419,TRANSICION II,01. Primera infancia,2
+420,TRANSICION II,02. Infancia,1
+421,TRANSICION II,03. Adolescencia,21
+422,TRANSICION II,04. Jovenes,22
+423,TRANSICION II,05. Adultez,43
+424,TRANSICION II,06. Persona Mayor,5
+425,TRANSICION III,01. Primera infancia,2
+426,TRANSICION III,02. Infancia,3
+427,TRANSICION III,03. Adolescencia,16
+428,TRANSICION III,04. Jovenes,27
+429,TRANSICION III,05. Adultez,46
+430,TRANSICION III,06. Persona Mayor,4
+431,TRANSICION IV,01. Primera infancia,3
+432,TRANSICION IV,03. Adolescencia,12
+433,TRANSICION IV,04. Jovenes,48
+434,TRANSICION IV,05. Adultez,45
+435,TRANSICION IV,06. Persona Mayor,3
+436,TRANSICION V,01. Primera infancia,5
+437,TRANSICION V,02. Infancia,6
+438,TRANSICION V,03. Adolescencia,17
+439,TRANSICION V,04. Jovenes,65
+440,TRANSICION V,05. Adultez,78
+441,TRANSICION V,06. Persona Mayor,6
+442,VILLA HELENA,05. Adultez,2
+443,VILLA HELENA I,01. Primera infancia,7
+444,VILLA HELENA I,02. Infancia,8
+445,VILLA HELENA I,03. Adolescencia,25
+446,VILLA HELENA I,04. Jovenes,132
+447,VILLA HELENA I,05. Adultez,178
+448,VILLA HELENA I,06. Persona Mayor,23
+449,VILLA HELENA II,01. Primera infancia,2
+450,VILLA HELENA II,02. Infancia,2
+451,VILLA HELENA II,03. Adolescencia,3
+452,VILLA HELENA II,04. Jovenes,8
+453,VILLA HELENA II,05. Adultez,18
+454,VILLA HELENA II,06. Persona Mayor,2
+455,VILLA MARIA I,01. Primera infancia,3
+456,VILLA MARIA I,02. Infancia,2
+457,VILLA MARIA I,03. Adolescencia,1
+458,VILLA MARIA I,04. Jovenes,30
+459,VILLA MARIA I,05. Adultez,37
+460,VILLA MARIA I,06. Persona Mayor,3
+461,VILLA MARIA III,05. Adultez,1
+462,VILLA MERCEDES,01. Primera infancia,8
+463,VILLA MERCEDES,02. Infancia,12
+464,VILLA MERCEDES,03. Adolescencia,46
+465,VILLA MERCEDES,04. Jovenes,172
+466,VILLA MERCEDES,05. Adultez,245
+467,VILLA MERCEDES,06. Persona Mayor,16
+468,VILLA ROSA,01. Primera infancia,11
+469,VILLA ROSA,02. Infancia,11
+470,VILLA ROSA,03. Adolescencia,81
+471,VILLA ROSA,04. Jovenes,402
+472,VILLA ROSA,05. Adultez,546
+473,VILLA ROSA,06. Persona Mayor,46
+474,VILLAS DE GIRARDOT,01. Primera infancia,4
+475,VILLAS DE GIRARDOT,02. Infancia,2
+476,VILLAS DE GIRARDOT,03. Adolescencia,19
+477,VILLAS DE GIRARDOT,04. Jovenes,44
+478,VILLAS DE GIRARDOT,05. Adultez,84
+479,ZARABANDA,01. Primera infancia,5
+480,ZARABANDA,02. Infancia,3
+481,ZARABANDA,03. Adolescencia,14
+482,ZARABANDA,04. Jovenes,60
+483,ZARABANDA,05. Adultez,106
+484,ZARABANDA,06. Persona Mayor,9
